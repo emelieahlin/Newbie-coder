@@ -1,7 +1,39 @@
-emelie_testar.css
-
 body {
-	background: #FFB6C1;
-	font: 16 pt "Century gothic"
+	background-color: #ECEBEB;
+	max-width: 800pt;
+	margin: 0 auto;
+}
+h1 {
+	color: #000000;
+	font: 16pt "Helvetica";
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+h2 {
+	color: #000000;
+	font: 14pt "Helvetica";
+	margin: 0 auto;
+	text-align: center;
+}
+p {
+	color: #ffffff;
+	font: 10pt "Verdana";
+	margin: 0 auto;
+	text-align: left;
+}
 
+.column1 { 
+	background-color: #365299;
+	padding: 20px;
+	height: 200px; 
+}
+.column2 {
+	height: 200px;
+	text-align: center;
+}
+.column3 {
+	background-color: #365299;
+	padding: 20px;
+	height: 200px; 
 }
